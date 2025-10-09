@@ -45,6 +45,7 @@ It is built with **Node.js**, **Express.js**, and **MongoDB**, following the **M
 | `uploads/` | File upload storage |
 
 ###  Clone Repository
+
 1️⃣ Clone Repository
 ```bash
 git clone https://github.com/namhai10062003/react18_backend.git
@@ -60,5 +61,5 @@ JWT_SECRET=your_jwt_secret
 Khi bạn làm backend khác, hãy nhớ đổi lại đường dẫn MongoDB trong file .env
 MONGODB_URI=mongodb://localhost:27017/my_new_backend
 
-### Production Mode 
+Production Mode 
 npm start 
