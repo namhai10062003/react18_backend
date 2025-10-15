@@ -1,0 +1,2 @@
+Routes - Thư mục này sẽ chứa tất cả các tuyến đường mà bạn đã tạo bằng cách sử dụng Express Router và kết hợp với Controllers.
+ Cách đặt tên cũng như trên xxxxx.routes.js 

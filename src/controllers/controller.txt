@@ -1,0 +1,2 @@
+Controllers - Thư mục này sẽ chứa tất cả các chức năng dể viết các API của bạn.
+Cách đặt tên: xxxxx.controller.js trong đó xxx là nhiệm vụ thôi, ví dụ: login.controller.js 

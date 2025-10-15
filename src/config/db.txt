@@ -1,0 +1,2 @@
+Configs - File này dùng cấu hình cho các API / dịch vụ của bên thứ ba như passport / S3, v.v. Những thông số như keyAPI các kiểu
+này để kết nối db vs xử lý như corn or những chức năng để gọi

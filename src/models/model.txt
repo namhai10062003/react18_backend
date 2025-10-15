@@ -1,0 +1,2 @@
+Models - Thư mục này sẽ chứa tất cả các files như schema của bạn và và các chức năng cần thiết cho schema cũng sẽ nằm ở đây.
+ Đặt tên xxxxx.model.js 
